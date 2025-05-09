@@ -63,7 +63,7 @@ Finding that middle ground, where each turn felt meaningful, and the outcomes st
 
 ## SOURCES & INSPIRATION
 
-This project was developed with help from course materials and personal research. All of the code was written and debugged by me, but some of the sources that I pulle dinspiration from and used as help with the design and logic of Knight’s Trial include:
+This project was developed with help from course materials and personal research. All of the code was written and debugged by me, but some of the sources that I pulled inspiration from and used as help with the design and logic of Knight’s Trial include:
 
 - Al Sweigart. Automate the Boring Stuff with Python. No Starch Press, 2015.
 - Real Python Tutorials. Object-Oriented Programming in Python.
